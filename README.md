@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MashaKafka.github.io/rsschool-cv/
