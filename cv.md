@@ -2,10 +2,10 @@
 ***
 ## Contacts ##
 ***
-**Location:** Minsk, Belarus
-**Phone:** +375 29 503-51-14
-**Email:** mmi520294@gmail.com
-**GitHub:** [MashaKafka](https://github.com/MashaKafka)
+- **Location:** Minsk, Belarus
+- **Phone:** +375 29 503-51-14
+- **Email:** mmi520294@gmail.com
+- **GitHub:** [MashaKafka](https://github.com/MashaKafka)
 
 # About Me #
 ***
@@ -14,10 +14,10 @@ Just do it!
 
 # Skills #
 ***
-**HTML** (FreeCodeCamp)
-**CSS** (FreeCodeCamp)
-**JavaScript** (Fundamentals, Functional Programming)
-**Git** (video courses on YouTube)
+- **HTML** (FreeCodeCamp)
+- **CSS** (FreeCodeCamp)
+- **JavaScript** (Fundamentals, Functional Programming)
+- **Git** (video courses on YouTube)
 
 # Code examples #
 ***
