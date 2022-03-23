@@ -26,15 +26,7 @@ function multiply(a, b){
 return a * b
 }
 ```
-```
-let myArr = [3, 4, 5, 6]
-console.log("Arr: ", myArr);
-myArr = myArr.map((el)=>el*2);
-console.log("new Arr: ", myArr);
 
-// myArr: [3,4,5,6]
-//new Arr: [6,8,10,12]
-```
 # Languages #
 ***
 + ***Russian*** - native
